@@ -1,0 +1,45 @@
+"Robert Lewandowski",5
+"Olivier Giroud",4
+"Erling Haaland",3
+"Kevin De Bruyne",3
+"Álvaro Morata",3
+"Patrik Schick",3
+"Emre Can",3
+"Jack Grealish",3
+"Ruben Loftus-Cheek",2
+"Raphinha",2
+"Lamine Yamal",2
+"Lautaro Martínez",2
+"Pedro Gonçalves",2
+"Theo Hernández",2
+"Pedri",2
+"Julian Brandt",2
+"Florian Wirtz",2
+"Rodrygo",1
+"Daniel Carvajal",1
+"Minjae Kim",1
+"Leandro Trossard",1
+"Martin Ødegaard",1
+"Thomas Partey",1
+"Mikel Merino",1
+"Sébastien Haller",1
+"Ollie Watkins",1
+"Lucas Digne",1
+"John McGinn",1
+"Rodri",1
+"Koke",1
+"Antoine Griezmann",1
+"Cuco Hernandez",1
+"Amine Adli",1
+"Jeremie Frimpong",1
+"Phil foden",1
+"Tijjani Reijnders",1
+"Marc Casado",1
+"",1
+"Vinicius Jr",1
+"Moussa Diaby",1
+"Exequiel Palacios",1
+"John stones",1
+"Josko Gavardiol",1
+"Mats Hummels",1
+"Total goals",72

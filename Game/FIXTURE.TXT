@@ -1,0 +1,2 @@
+"Bayer Leverkusen","Barcelona"
+"Man City","BVB"
